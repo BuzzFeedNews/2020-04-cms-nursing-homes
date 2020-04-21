@@ -1,0 +1,7 @@
+.DS_store
+.ipynb_checkpoints
+notes.md
+notebooks/explore.ipynb
+data/health_deficiencies.csv
+venv
+notes.ipynb
